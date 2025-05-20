@@ -33,3 +33,9 @@ input[type="email"] {
 #result {
     font-size: 1.5em;
 }
+
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    margin-left: 5px;
+}
